@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.ec95bb5d.css",
+    "main.js": "/my-portfolio/static/js/main.4fe06e06.js",
+    "static/js/787.7da95b79.chunk.js": "/my-portfolio/static/js/787.7da95b79.chunk.js",
+    "static/media/SpaceSquad.png": "/my-portfolio/static/media/SpaceSquad.778dda949177d0bdfa18.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.ec95bb5d.css.map": "/my-portfolio/static/css/main.ec95bb5d.css.map",
+    "main.4fe06e06.js.map": "/my-portfolio/static/js/main.4fe06e06.js.map",
+    "787.7da95b79.chunk.js.map": "/my-portfolio/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec95bb5d.css",
+    "static/js/main.4fe06e06.js"
+  ]
+}
