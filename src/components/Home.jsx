@@ -5,7 +5,8 @@ import { HiMail } from "react-icons/hi";
 import SpaceSquad from '../assets/SpaceSquad.png'
 import AlpineBouzeb from '../assets/AlpineBouzeb.png'
 import YourEfrei from '../assets/YourEfrei.png'
-
+import PyAutoOrganise from '../assets/PyAutoOrganise.png'
+import AdminGestion from '../assets/AdminGestion.sh.png'
 
 
 const Home = () => {
@@ -97,7 +98,16 @@ const Home = () => {
     <p className='text-center'>YourEfrei is a website simulating the intranet of Efrei, it's a project with front and Backend.</p>
     <p className='text-center'> Built with React, NodeJS, Express, MySQL and CSS </p>
   </div>
-
+  <div className='flex flex-col items-center'>
+    <img src={PyAutoOrganise} alt='PyAutoOrganise' />
+    <p className='text-center'>PyAutoOrganise is a python script that organizes all downloaded files in a folder by extension.</p>
+    <p className='text-center'> Built with Python </p>
+    </div>
+    <div className='flex flex-col items-center'>
+    <img src={AdminGestion} alt='AdminGestion' />
+    <p className='text-center'>AdminGestion is a bash script that allows you to manage users and groups on Linux.</p>
+    <p className='text-center'> Built with Bash </p>
+    </div>
   </div>
 
 </section>
