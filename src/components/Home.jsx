@@ -83,28 +83,28 @@ const Home = () => {
   </div>
   <div className='grid grid-cols-1 md:grid-cols-3 md:px-10 gap-10 justify-center mx-auto'>
   <div className='flex flex-col items-center'>
-    <img src={SpaceSquad} alt='SpaceSquad' />
+    <img src={SpaceSquad} alt='SpaceSquad'  width={250} height={250} />
     <p className='text-center'>SpaceSquad is a website team project retracing the history of space exploration with minigames and others functionalities</p>
     <p className='text-center'> Built with HTML CSS and Javascript</p>
   </div>
 
   <div className='flex flex-col items-center'>
-    <img src={AlpineBouzeb} alt='AlpineBouzeb' />
+    <img src={AlpineBouzeb} alt='AlpineBouzeb'  width={250} height={250}/>
     <p className='text-center'>Bouzeb Motos is a website for searching and filtering motorbikes.</p>
     <p className='text-center'> Built with AlpineJS HTML and TailwindCSS </p>
   </div>
   <div className='flex flex-col items-center'>
-    <img src={YourEfrei} alt='YourEfrei' />
+    <img src={YourEfrei} alt='YourEfrei'  width={250} height={250}/>
     <p className='text-center'>YourEfrei is a website simulating the intranet of Efrei, it's a project with front and Backend.</p>
     <p className='text-center'> Built with React, NodeJS, Express, MySQL and CSS </p>
   </div>
   <div className='flex flex-col items-center'>
-    <img src={PyAutoOrganise} alt='PyAutoOrganise' />
+    <img src={PyAutoOrganise} alt='PyAutoOrganise' width={250} height={250} />
     <p className='text-center'>PyAutoOrganise is a python script that organizes all downloaded files in a folder by extension.</p>
     <p className='text-center'> Built with Python </p>
     </div>
     <div className='flex flex-col items-center'>
-    <img src={AdminGestion} alt='AdminGestion' />
+    <img src={AdminGestion} alt='AdminGestion'  width={250} height={250}/>
     <p className='text-center'>AdminGestion is a bash script that allows you to manage users and groups on Linux.</p>
     <p className='text-center'> Built with Bash </p>
     </div>
